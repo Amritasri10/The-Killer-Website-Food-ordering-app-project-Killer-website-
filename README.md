@@ -17,8 +17,16 @@ The **Killer Website** is a frontend-only project designed to showcase **Omnifoo
 - **JavaScript** – Interactive elements  
 
 ## 📂 Project Structure
-The-Killer-Website-Food-ordering-app-project
-Killer-Website/ │── index.html # Main HTML file │── css/ │ ├── style.css # Stylesheet │── js/ │ ├── script.js # JavaScript functionalities │── images/ # Assets and images │── README.md # Project documentation
+```bash
+The-Killer-Website-Food-ordering-app/
+│── index.html             # Main HTML file
+│── css/
+│   ├── style.css          # Stylesheet
+│── js/
+│   ├── script.js         # JavaScript functionalities
+│── images/                # Assets and images
+│── README.md              # Project documentation
+
 
 
 ## 🏁 Getting Started
