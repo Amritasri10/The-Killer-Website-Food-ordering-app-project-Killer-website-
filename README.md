@@ -26,8 +26,7 @@ The-Killer-Website-Food-ordering-app/
 │   ├── script.js         # JavaScript functionalities
 │── images/                # Assets and images
 │── README.md              # Project documentation
-
-
+```
 
 ## 🏁 Getting Started
 
