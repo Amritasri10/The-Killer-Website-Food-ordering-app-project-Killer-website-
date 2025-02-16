@@ -30,9 +30,6 @@ The-Killer-Website-Food-ordering-app/
 
 ## 🏁 Getting Started
 
-### 🔧 Prerequisites
-Ensure you have a **modern web browser** installed.
-
 ### 📥 Installation
 1. **Clone the repository**  
    ```sh
@@ -45,9 +42,6 @@ Ensure you have a **modern web browser** installed.
     - If using VS Code, open with Live Server
     -  Or, double-click index.html to open in your default browser
   
-### 📸 Screenshots
-(Add relevant screenshots to showcase your project UI)
-
 ### 🔮 Future Enhancements
 -  🚀 Real-time order tracking (Backend Integration)
 -  🌙 Dark Mode Toggle for better accessibility
