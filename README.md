@@ -42,14 +42,17 @@ The-Killer-Website-Food-ordering-app/
     - If using VS Code, open with Live Server
     -  Or, double-click index.html to open in your default browser
   
-### 🔮 Future Enhancements
+## 🔮 Future Enhancements
 -  🚀 Real-time order tracking (Backend Integration)
 -  🌙 Dark Mode Toggle for better accessibility
 -  🎨 Improved animations & micro-interactions
 
-###  📜 License
+##  📜 License
 This project is licensed under the MIT License.
 
-   
+## 🙌 Author
+
+Connect with me on 
+[LinkedIn](https://www.linkedin.com/in/amrita-srivastava10/) | [GitHub](https://github.com/Amritasri10)
 
 
